@@ -1,4 +1,4 @@
-# Andrea Navarra'a first CS193 Homework
+# Andrea Navarra's first CS193 Homework
 
 - I am learning useful things that will help me succeed in CS
 - The students leading the class are entertaining
