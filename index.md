@@ -25,14 +25,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-```
-_italic_ 
-**bold**
-`Code`
-# header 1
-## header 2
-### header 3
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
